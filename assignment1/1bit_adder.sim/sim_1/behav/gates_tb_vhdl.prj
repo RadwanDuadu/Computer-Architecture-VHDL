@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../1bit_adder.srcs/sources_1/new/gates.vhd"
+vhdl xil_defaultlib  "../../../1bit_adder.srcs/sim_1/new/gates_tb.vhd"
+
+# Do not sort compile order
+nosort

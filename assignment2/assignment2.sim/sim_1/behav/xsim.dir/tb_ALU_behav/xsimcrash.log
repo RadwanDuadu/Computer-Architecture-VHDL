@@ -1,0 +1,21 @@
+Unable to capture context for thread 9504 in process 2936, can not generate back trace
+Unable to capture context for thread 15812 in process 2936, can not generate back trace
+Unable to capture context for thread 7232 in process 2936, can not generate back trace
+Exception at PC 0x00007FFC9345BB93
+Printing stacktrace...
+
+[0]  [0x00007FFC9345BB93]
+[1]  [0x00007FFC9345BB93]
+[2]  [0x00007FFC9345B4A1]
+[3]  [0x00007FFC9345B3EF]
+[4]  [0x00007FFC934419FE]
+[5]  [0x00007FFC93440ED1]
+[6]  [0x00007FFC93440D76]
+[7]  [0x00007FFC933E79F6]
+[8]  [0x00007FFC933D7AFB]
+[9]  [0x00007FFC934FE90A]
+[10]  [0x00007FFC93519F87]
+[11]  [0x00007FFC9351A05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFD0B252774]
+[13] (RtlUserThreadStart+0x21) [0x00007FFD0D9C0D51]
+Done

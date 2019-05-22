@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mradw/Desktop/2018-ECE/HDL/assignment2/assignment2.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mradw/Desktop/2018-ECE/HDL/assignment2/assignment2.srcs/sources_1/new/tb_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_ALU

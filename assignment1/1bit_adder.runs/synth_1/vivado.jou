@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Oct  9 18:38:37 2017
+# Process ID: 12992
+# Current directory: C:/Users/mradw/Desktop/2018-ECE/HDL/1bit_adder/1bit_adder.runs/synth_1
+# Command line: vivado.exe -log gates.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source gates.tcl
+# Log file: C:/Users/mradw/Desktop/2018-ECE/HDL/1bit_adder/1bit_adder.runs/synth_1/gates.vds
+# Journal file: C:/Users/mradw/Desktop/2018-ECE/HDL/1bit_adder/1bit_adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source gates.tcl -notrace

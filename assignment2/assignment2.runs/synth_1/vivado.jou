@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Tue Dec 12 22:21:10 2017
+# Process ID: 12532
+# Current directory: C:/Users/mradw/Desktop/2018-ECE/HDL/assignment2/assignment2.runs/synth_1
+# Command line: vivado.exe -log Structure_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Structure_tb.tcl
+# Log file: C:/Users/mradw/Desktop/2018-ECE/HDL/assignment2/assignment2.runs/synth_1/Structure_tb.vds
+# Journal file: C:/Users/mradw/Desktop/2018-ECE/HDL/assignment2/assignment2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Structure_tb.tcl -notrace
